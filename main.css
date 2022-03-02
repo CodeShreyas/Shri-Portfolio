@@ -261,6 +261,7 @@ button[type="submit"]:hover {
     
 };
 #status {
+    display: none;
     width: 90%;
     max-width: 500px;
     text-align: center;
